@@ -5,7 +5,7 @@ Douglas-Rachford for Sudoku with binary encoding and Alternating Bregman project
   <img width="460" height="300" src=images/sudoku.png>
 </p>
 
-# Terminal Command
+## Terminal Command
 ```bash
 python src/Douglas-Rachford.py puzzle/easy_boards.npy solution/sample_solutions.npy
 ```
@@ -17,5 +17,5 @@ python src/Douglas-Rachford.py puzzle/easy_boards.npy solution/sample_solutions.
 python src/Douglas-Rachford.py puzzle/easy_boards.npy
 ```
 <p align="center">
-  <img width="550" height="500" src=images/terminal2.png>
+  <img width="400" height="700" src=images/terminal3.png>
 </p>
